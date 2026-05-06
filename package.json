@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KevinGo24/Api_rest/issues"
   },
-  "homepage": "https://github.com/KevinGo24/Api_rest#readme"
+  "homepage": "https://github.com/KevinGo24/Api_rest#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
