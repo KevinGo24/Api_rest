@@ -1,0 +1,19 @@
+{
+  "name": "apirest",
+  "version": "1.0.0",
+  "description": "mi primera api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinGo24/Api_rest.git"
+  },
+  "author": "kevin gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinGo24/Api_rest/issues"
+  },
+  "homepage": "https://github.com/KevinGo24/Api_rest#readme"
+}
